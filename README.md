@@ -29,3 +29,8 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
   </div>
+
+  
+  <div>
+    ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+  </div>
