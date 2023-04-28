@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <h1> E ai dev, tranquilão? 😎</h1>
+    <h1> E ai dev, ta suave? 😎</h1>
    </div>
 
   <h2> Meu nome é João Almeida, e esse é meu perfil. Pode ficar a vontade ✌</h2> 
