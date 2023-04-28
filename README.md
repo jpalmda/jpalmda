@@ -27,4 +27,4 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    </div>
    
-   ![snake animation](https://github.com/rafaballerini/rafaballerini2/bloob/output/github-contributiuon-grid-snake.svg)
+   ![snake animation](https://github.com/jpalmda/jpalmda/bloob/output/github-contributiuon-grid-snake.svg)
