@@ -16,6 +16,8 @@
 </div>
 <br>
 
+  ![gifzaada](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif)
+  
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
