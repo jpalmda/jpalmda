@@ -16,7 +16,7 @@
 </div>
 <br>
 
-  ![gifzaada](https://gifs.eco.br/wp-content/uploads/2021/09/gifs-aesthetic-wallpaper-para-desktop-e-mobile-6.gif)
+  ![gifzaada](https://duftwatterson.com/wp-content/uploads/2019/09/VideoGameBlog-Header-Compressed-1.gif)
   
 <div  align="center"> 
   <div style="display: inline_block"><br>
