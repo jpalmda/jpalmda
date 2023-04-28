@@ -25,7 +25,5 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   
-   ![Snake animation](https://github.com/jpalmda/jpalmda/blob/output/github-contribution-grid-snake.svg)
-
+ 
   </div>
