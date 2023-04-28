@@ -16,7 +16,7 @@
 </div>
 <br>
 
-  ![gifzaada](https://duftwatterson.com/wp-content/uploads/2019/09/VideoGameBlog-Header-Compressed-1.gif)
+  ![gifzaada](https://cdna.artstation.com/p/assets/images/images/030/181/244/original/benett-casama-snoot-x.gif?1599837640)
   
 <div  align="center"> 
   <div style="display: inline_block"><br>
