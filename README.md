@@ -1,4 +1,6 @@
-# João Almeida
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:334155&height=120&section=header&text=João%20Almeida&fontSize=36&fontColor=ffffff&fontAlign=50&fontAlignY=55&desc=Engenharia%20de%20Dados&descSize=16&descAlign=50&descAlignY=75&descColor=cbd5e1" width="100%"/>
+</p>
 
 Analista de Suporte Jr II (Linx/Totvs) · Estudante de Sistemas de Informação (Unifabibe)
 
@@ -7,7 +9,7 @@ Analista de Suporte Jr II (Linx/Totvs) · Estudante de Sistemas de Informação 
 
 ---
 
-Trabalho com suporte técnico e banco de dados no dia a dia, e uso esse tempo livre pra estudar engenharia de dados: construir pipelines que pegam dado bruto, tratam e entregam em algum lugar confiável.
+Trabalho com suporte técnico e banco de dados no dia a dia, e uso esse tempo livre pra estudar engenharia de dados a sério: construir pipelines que pegam dado bruto, tratam e entregam em algum lugar confiável.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -20,7 +22,7 @@ Trabalho com suporte técnico e banco de dados no dia a dia, e uso esse tempo li
 ## Projetos
 
 **[ETL Cotação do Dólar](https://github.com/jpalmda/etl-cotacao-dolar)**
-Pipeline que extrai a cotação do dólar da API do Banco Central, trata com Pandas e carrega em PostgreSQL. Containerizado com Docker Compose.
+Pipeline que extrai a cotação do dólar da API do Banco Central, trata com Pandas e carrega em PostgreSQL.
 
 ---
 
