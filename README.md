@@ -9,7 +9,7 @@ Analista de Suporte Jr II (Linx/Totvs) · Estudante de Sistemas de Informação 
 
 ---
 
-Trabalho com suporte técnico e banco de dados no dia a dia, e uso esse tempo livre pra estudar engenharia de dados a sério: construir pipelines que pegam dado bruto, tratam e entregam em algum lugar confiável.
+Trabalho como analista de suporte e no dia a dia mexo bastante com infra e banco de dados. Fora do trabalho tenho estudado engenharia de dados por conta própria, construindo pipelines pra entender melhor como os trem funciona.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
