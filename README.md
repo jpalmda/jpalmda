@@ -23,4 +23,4 @@ Buscando oportunidade de entrada em Engenharia de Dados / Analytics Engineering.
 
 ## 📫 Contato
 
-[LinkedIn](SEU_LINK_AQUI) · [Email](mailto:SEU_EMAIL_AQUI)](https://www.linkedin.com/in/joaoppalmda/)
+[LinkedIn](https://www.linkedin.com/in/joaoppalmda/) · [Email](mailto:joaoppalmda@gmail.com)]
