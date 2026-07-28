@@ -1,4 +1,4 @@
-[# João Almeida
+# João Almeida
 
 Estudante de Sistemas de Informação (Unifafibe) em transição de carreira para **Engenharia de Dados**. Atualmente atuo com suporte técnico na Linx/Totvs, construindo minha base técnica em paralelo através de projetos práticos.
 
