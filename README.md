@@ -1,26 +1,63 @@
-# João Almeida
+<div align="center">
+  <img src="https://github.com/jpalmda/jpalmda/blob/main/assets/banner.gif?raw=true" width="100%">
+</div>
 
-Estudante de Sistemas de Informação (Unifafibe) em transição de carreira para **Engenharia de Dados**. Atualmente atuo com suporte técnico na Linx/Totvs, construindo minha base técnica em paralelo através de projetos práticos.
+<h1 align="center">João Almeida</h1>
+<h3 align="center">Construindo pipelines e aprendendo na prática</h3>
 
-## 🔧 Stack
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaoppalmda/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:joaoppalmda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+---
 
-## 📌 Projetos
+### 👋 Sobre mim
 
-**[ETL Cotação do Dólar](https://github.com/jpalmda/etl-cotacao-dolar)**
-Pipeline de extração, transformação e carga: API do Banco Central → Pandas → PostgreSQL, ambiente containerizado com Docker.
+Sou estudante de Sistemas de Informação na Unifafibe (Bebedouro-SP) e trabalho com Analista de Suporte Jr II na Linx/Totvs. 
 
-## 🎯 Objetivo
+No dia a dia lido com bastante infraestrutura e banco de dados, o que me fez mergulhar de cabeça no mundo dos dados. Fora do expediente, estou sempre testando algo novo, seja raspando dados de APIs públicas, containerizando pipelines com Docker ou modelando bancos PostgreSQL.
 
-Buscando oportunidade de entrada em Engenharia de Dados / Analytics Engineering. Aberto a conversas, indicações e feedback sobre meus projetos.
+Gosto de entender como as coisas funcionam por baixo dos panos. Meu foco hoje é construir pipelines confiáveis, bem documentados e fáceis de reproduzir.
 
-## 📫 Contato
+> Aberto a conversas, indicações e feedback sobre os projetos. Sempre aprendendo.
 
-[LinkedIn](https://www.linkedin.com/in/joaoppalmda/) · [Email](mailto:joaoppalmda@gmail.com)
+---
+
+### 🛠️ O que uso no dia a dia
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📂 Projetos que ando mexendo
+
+| Projeto | O que é | Stack |
+|---------|---------|-------|
+| [ETL Cotação do Dólar](link) | Pipeline que puxa cotação do Banco Central, transforma com Pandas e joga no PostgreSQL. Tudo rodando em containers Docker. | Python, Pandas, PostgreSQL, Docker |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpalmda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpalmda&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+---
+
+### 📬 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/joaoppalmda/)
+- Email: joaoppalmda@gmail.com
