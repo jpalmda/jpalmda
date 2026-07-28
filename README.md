@@ -19,10 +19,23 @@ Trabalho com suporte técnico e banco de dados no dia a dia, e uso esse tempo li
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTR1MWpqMmVtM240MTBxZ2h0enczcmxkY2ppbzgwZHJ4bnBzYjd5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" width="100%"/>
+</p>
+
 ## Projetos
 
-**[ETL Cotação do Dólar](https://github.com/jpalmda/etl-cotacao-dolar)**
-Pipeline que extrai a cotação do dólar da API do Banco Central, trata com Pandas e carrega em PostgreSQL.
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**ETL Cotação do Dólar**](https://github.com/jpalmda/etl-cotacao-dolar) | Pipeline que extrai a cotação do dólar da API do Banco Central, trata com Pandas e carrega em PostgreSQL. Containerizado com Docker Compose. | `Python` `Pandas` `PostgreSQL` `Docker` |
+
+## Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpalmda/jpalmda/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpalmda/jpalmda/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/jpalmda/jpalmda/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
