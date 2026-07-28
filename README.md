@@ -1,33 +1,24 @@
-<div align="center">
-  <div>
-    <h1> E ai dev, suave? 😁</h1>
-   </div>
+[# João Almeida
 
-  <h2> Meu nome é João Almeida, e esse é meu perfil. Pode ficar a vontade ✌</h2> 
-  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/joao.almda/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-almeida-b3988b268/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/joao_almda)
+Estudante de Sistemas de Informação (Unifafibe) em transição de carreira para **Engenharia de Dados**. Atualmente atuo com suporte técnico na Linx/Totvs, construindo minha base técnica em paralelo através de projetos práticos.
 
-<div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=jpalmda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpalmda&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
-<br>
+## 🔧 Stack
 
-  ![gifzaada](https://cdna.artstation.com/p/assets/images/images/030/181/244/original/benett-casama-snoot-x.gif?1599837640)
-  
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
-  </div>
-  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+## 📌 Projetos
+
+**[ETL Cotação do Dólar](https://github.com/jpalmda/etl-cotacao-dolar)**
+Pipeline de extração, transformação e carga: API do Banco Central → Pandas → PostgreSQL, ambiente containerizado com Docker.
+
+## 🎯 Objetivo
+
+Buscando oportunidade de entrada em Engenharia de Dados / Analytics Engineering. Aberto a conversas, indicações e feedback sobre meus projetos.
+
+## 📫 Contato
+
+[LinkedIn](SEU_LINK_AQUI) · [Email](mailto:SEU_EMAIL_AQUI)](https://www.linkedin.com/in/joaoppalmda/)
