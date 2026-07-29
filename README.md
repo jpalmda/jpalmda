@@ -28,6 +28,7 @@ Trabalho como analista de suporte e no dia a dia mexo bastante com infra e banco
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [**ETL Cotação do Dólar**](https://github.com/jpalmda/etl-cotacao-dolar) | Pipeline que extrai a cotação do dólar da API do Banco Central, trata com Pandas e carrega em PostgreSQL. Containerizado com Docker Compose. | `Python` `Pandas` `PostgreSQL` `Docker` |
+| [**Airflow ETL Dólar**](https://github.com/jpalmda/airflow-etl-dolar) | Evolução do projeto anterior: automação do pipeline com Apache Airflow, orquestrando containers Docker com agendamento diário e monitoramento de execuções. | `Python` `Airflow` `PostgreSQL` `Docker` |
 
 ## Contribuições
 
