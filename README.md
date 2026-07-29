@@ -13,7 +13,13 @@ Analista de Suporte Jr II (Linx/Totvs) · Estudante de Sistemas de Informação 
 Trabalho como analista de suporte e no dia a dia mexo bastante com infra e banco de dados. Fora do trabalho tenho estudado engenharia de dados por conta própria, construindo pipelines pra entender melhor como as coisas funcionam por baixo dos panos.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,pandas,apache,docker,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,git,linux&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 </p>
 
 <p align="center">
