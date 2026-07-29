@@ -12,15 +12,9 @@ Analista de Suporte Jr II (Linx/Totvs) · Estudante de Sistemas de Informação 
 
 Trabalho como analista de suporte e no dia a dia mexo bastante com infra e banco de dados. Fora do trabalho tenho estudado engenharia de dados por conta própria, construindo pipelines pra entender melhor como as coisas funcionam por baixo dos panos.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,pandas,apache,docker,git,linux&theme=dark" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jpalmda&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
