@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  Analista de Suporte Jr II (Linx/Totvs) · Estudante de Sistemas de Informação (Unifabibe)
+  Analista de Suporte Jr II (Linx/Totvs) · Estudante de Sistemas de Informação (Unifafibe)
 </p>
 
 <p align="center">
