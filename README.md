@@ -42,10 +42,10 @@ Fora do trabalho, estudo tecnologia e engenharia de dados por conta própria, de
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [**ETL BCB + Airflow + dbt**](https://github.com/jpalmda/etl-bcb-airflow-dbt) | Pipeline ETL/ELT que extrai indicadores econômicos (SELIC, IPCA e dólar) da API do Banco Central, com orquestração via Apache Airflow, transformação dos dados em camadas staging/marts com dbt e testes de qualidade. Todo o ambiente é executado em containers Docker. | `Python` `Airflow` `dbt` `Docker` |
-| [**ETL Cotação do Dólar**](https://github.com/jpalmda/etl-cotacao-dolar) | Pipeline que extrai a cotação do dólar da API do Banco Central, trata com Pandas e carrega em PostgreSQL. Containerizado com Docker Compose. | `Python` `Pandas` `PostgreSQL` `Docker` |
-| [**Airflow ETL Dólar**](https://github.com/jpalmda/airflow-etl-dolar) | Evolução do projeto anterior: automação do pipeline com Apache Airflow, orquestrando containers Docker com agendamento diário e monitoramento de execuções. | `Python` `Airflow` `PostgreSQL` `Docker` |
-| [**Análise de Multas SP (Spark)**](https://github.com/jpalmda/spark-multas-sp) | Processamento distribuído de quase 1 milhão de registros reais de trânsito (DETRAN-SP), com agregações, window functions e visualizações. | `Python` `PySpark` `Parquet` `Matplotlib` |
+| [**ETL de Indicadores Econômicos**](https://github.com/jpalmda/etl-bcb-airflow-dbt) | Pipeline de dados que extrai indicadores econômicos (SELIC, IPCA e dólar) da API do Banco Central, realiza transformações com dbt e aplica testes de qualidade. O fluxo é orquestrado pelo Apache Airflow e executado em containers Docker. | `Python` `Airflow` `dbt` `Docker` |
+| [**ETL Cotação do Dólar**](https://github.com/jpalmda/etl-cotacao-dolar) | Pipeline de dados que extrai a cotação do dólar da API do Banco Central, realiza o tratamento com Pandas e armazena os dados em PostgreSQL. O ambiente é executado com Docker Compose. | `Python` `Pandas` `PostgreSQL` `Docker` |
+| [**ETL de Cotação do Dólar com Airflow**](https://github.com/jpalmda/airflow-etl-dolar) | Pipeline de dados orquestrado pelo Apache Airflow para extração e armazenamento da cotação do dólar, com execução agendada, integração com PostgreSQL e ambiente containerizado. | `Python` `Airflow` `PostgreSQL` `Docker` |
+| [**Análise de Multas de Trânsito com Spark**](https://github.com/jpalmda/spark-multas-sp) | Processamento e análise de aproximadamente 1 milhão de registros reais de multas de trânsito do DETRAN-SP, utilizando processamento distribuído, agregações e window functions. | `Python` `PySpark` `Parquet` `Matplotlib` |
 
 ## Contribuições
 
