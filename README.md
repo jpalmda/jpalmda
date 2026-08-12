@@ -23,9 +23,9 @@
 
 ---
 
-Trabalho como analista de suporte, atuando diariamente com sistemas, infraestrutura, bancos de dados e resolução de problemas técnicos.
+Atuo como Analista de Suporte, trabalhando diariamente com sistemas, infraestrutura, bancos de dados e análise e resolução de problemas técnicos, com foco na identificação de causas e implementação de soluções.
 
-Fora do trabalho, estudo tecnologia e engenharia de dados por conta própria, desenvolvendo projetos para colocar em prática conceitos de ETL/ELT, orquestração, transformação, processamento e qualidade de dados. A ideia é aprender construindo — e, ocasionalmente, descobrir novas formas de quebrar o Docker no processo. 😅
+Paralelamente, venho aprofundando meus conhecimentos em Engenharia de Dados e desenvolvendo projetos práticos utilizando Python, SQL, Airflow, Spark, dbt e Docker. Meu objetivo é aplicar, na prática, conceitos de ETL/ELT, orquestração de pipelines, transformação e processamento de dados, além de qualidade e confiabilidade das informações.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,postgres,docker,git,linux&theme=dark" />
