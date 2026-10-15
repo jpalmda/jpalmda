@@ -41,11 +41,28 @@ Estou migrando para Engenharia de Dados, construindo projetos ponta a ponta com 
 | **Armazenamento** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apache&logoColor=white) |
 | **Infra e ferramentas** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
-## Em foco agora
+## Minha carreira como pipeline
 
-- Infraestrutura como código com Terraform
-- Serviços de dados em nuvem
-- CI/CD para pipelines de dados
+```mermaid
+flowchart LR
+    A["<b>EXTRACT</b><br/>Suporte técnico<br/>sistemas, bancos e infra"] --> B["<b>TRANSFORM</b><br/>Análise de causa raiz<br/>+ projetos de dados"]
+    B --> C["<b>VALIDATE</b><br/>Testes de qualidade<br/>e ambientes em Docker"]
+    C --> D[("<b>LOAD</b><br/>Engenharia de Dados")]
+```
+
+Quem passa o dia investigando por que algo quebrou aprende cedo que dado ruim e sistema instável têm a mesma origem: falta de observabilidade. É essa mentalidade que levo para os pipelines.
+
+```sql
+SELECT nome, cargo_atual, formacao, foco, stack
+FROM   joao.perfil
+WHERE  aberto_a_oportunidades = TRUE;
+
+-- nome         | João
+-- cargo_atual  | Analista de Suporte Jr II
+-- formacao     | Sistemas de Informação
+-- foco         | Engenharia de Dados
+-- stack        | {Python, SQL, Airflow, dbt, Spark, Docker}
+```
 
 ---
 
