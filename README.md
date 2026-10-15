@@ -1,62 +1,60 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header" width="100%"/>
-</p>
+<h1 align="center">João</h1>
 
-<h1 align="center">
+<p align="center">
   <a href="https://github.com/jpalmda">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+%F0%9F%91%8B;Analista+de+Suporte+%7C+Dados+e+Tecnologia;Explorando+dados%2C+infra+e+automa%C3%A7%C3%A3o+%F0%9F%94%A5;Docker%2C+Airflow%2C+Spark+e+um+pouco+de+caos" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Engenharia+de+Dados;Python+%C2%B7+SQL+%C2%B7+Airflow+%C2%B7+dbt+%C2%B7+Spark;Pipelines+confi%C3%A1veis%2C+test%C3%A1veis+e+reprodut%C3%ADveis" alt="Typing SVG" />
   </a>
-</h1>
-
-<p align="center">
-  Analista de Suporte Jr II (Linx/Totvs) · Estudante de Sistemas de Informação (Unifafibe)
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joaoppalmda/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:joaoppalmda@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+  Analista de Suporte Jr II na Linx/Totvs · Estudante de Sistemas de Informação na Unifafibe
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaoppalmda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:joaoppalmda@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-Atuo como Analista de Suporte, trabalhando diariamente com sistemas, infraestrutura, bancos de dados e análise e resolução de problemas técnicos, com foco na identificação de causas e implementação de soluções.
+## Sobre
 
-Paralelamente, venho aprofundando meus conhecimentos em Engenharia de Dados e desenvolvendo projetos práticos utilizando Python, SQL, Airflow, Spark, dbt e Docker. Meu objetivo é aplicar, na prática, conceitos de ETL/ELT, orquestração de pipelines, transformação e processamento de dados, além de qualidade e confiabilidade das informações.
+Trabalho no dia a dia com sistemas, bancos de dados e infraestrutura, investigando a causa raiz de problemas técnicos e entregando soluções. Essa rotina me deu o olhar que levo para dados: **um pipeline só vale se for confiável quando algo dá errado.**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,docker,git,linux&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-</p>
+Estou migrando para Engenharia de Dados, construindo projetos ponta a ponta com foco em orquestração, transformação, qualidade de dados e ambientes reproduzíveis com Docker.
 
 ## Projetos
 
-| Projeto | Descrição | Stack |
+| Projeto | O que faz | Stack |
 |---|---|---|
-| [**ETL de Indicadores Econômicos**](https://github.com/jpalmda/etl-bcb-airflow-dbt) | Pipeline de dados que extrai indicadores econômicos (SELIC, IPCA e dólar) da API do Banco Central, realiza transformações com dbt e aplica testes de qualidade. O fluxo é orquestrado pelo Apache Airflow e executado em containers Docker. | `Python` `Airflow` `dbt` `Docker` |
-| [**ETL Cotação do Dólar**](https://github.com/jpalmda/etl-cotacao-dolar) | Pipeline de dados que extrai a cotação do dólar da API do Banco Central, realiza o tratamento com Pandas e armazena os dados em PostgreSQL. O ambiente é executado com Docker Compose. | `Python` `Pandas` `PostgreSQL` `Docker` |
-| [**ETL de Cotação do Dólar com Airflow**](https://github.com/jpalmda/airflow-etl-dolar) | Pipeline de dados orquestrado pelo Apache Airflow para extração e armazenamento da cotação do dólar, com execução agendada, integração com PostgreSQL e ambiente containerizado. | `Python` `Airflow` `PostgreSQL` `Docker` |
-| [**Análise de Multas de Trânsito com Spark**](https://github.com/jpalmda/spark-multas-sp) | Processamento e análise de aproximadamente 1 milhão de registros reais de multas de trânsito do DETRAN-SP, utilizando processamento distribuído, agregações e window functions. | `Python` `PySpark` `Parquet` `Matplotlib` |
+| [**etl-bcb-airflow-dbt**](https://github.com/jpalmda/etl-bcb-airflow-dbt) | Ingere SELIC, IPCA e dólar da API do Banco Central, transforma com dbt e valida com testes de qualidade. Orquestrado com Airflow. | `Python` `Airflow` `dbt` `Docker` |
+| [**spark-multas-sp**](https://github.com/jpalmda/spark-multas-sp) | Processa e analisa ~1 milhão de registros reais de multas do DETRAN-SP com agregações e window functions. | `PySpark` `Parquet` `Matplotlib` |
+| [**airflow-etl-dolar**](https://github.com/jpalmda/airflow-etl-dolar) | Pipeline agendado no Airflow que extrai a cotação do dólar e persiste em PostgreSQL. | `Python` `Airflow` `PostgreSQL` `Docker` |
+| [**etl-cotacao-dolar**](https://github.com/jpalmda/etl-cotacao-dolar) | ETL da cotação do dólar com tratamento em Pandas e carga em PostgreSQL via Docker Compose. | `Python` `Pandas` `PostgreSQL` `Docker` |
 
-## Contribuições
+## Stack
+
+| | |
+|---|---|
+| **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Orquestração e transformação** | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **Armazenamento** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apache&logoColor=white) |
+| **Infra e ferramentas** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+## Em foco agora
+
+- Infraestrutura como código com Terraform
+- Serviços de dados em nuvem
+- CI/CD para pipelines de dados
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpalmda/jpalmda/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpalmda/jpalmda/output/github-contribution-grid-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/jpalmda/jpalmda/output/github-contribution-grid-snake.svg" />
+  <img alt="Gráfico de contribuições" src="https://raw.githubusercontent.com/jpalmda/jpalmda/output/github-contribution-grid-snake.svg" />
 </picture>
 
----
-
 <p align="center">
-  Aberto a trocar ideia sobre tecnologia, dados, projetos ou oportunidades na área 🚀
+  Aberto a conversar sobre dados, projetos e oportunidades na área.
 </p>
